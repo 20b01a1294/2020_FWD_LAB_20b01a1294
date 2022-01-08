@@ -1,0 +1,23 @@
+nav{
+    display: fixed;
+    background-color: black;
+    color: white;
+    height: 60px;
+}
+li{
+    display: inline;
+    padding-right: 42px;
+   
+}
+.li1
+{
+  padding-left: 900px; 
+  
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+ul{
+    padding-top: 20px;
+}
